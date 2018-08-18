@@ -1,8 +1,8 @@
 # 头部菜单，title: link
 menu:
-  Whoami: /whoami
-  Github: https://github.com/Fechin
-  Twitter: https://twitter.com/FechinLi
+  Yif: /yif
+  Github: https://github.com/yif-hong
+  Email: h759233960@163.com
 
 # 是否显示目录
 TOC: false
@@ -50,7 +50,7 @@ keywords: Fechin
 google_analytics: 
 
 # 网站ico
-favicon: /img/favicon.jpg
+favicon: /img/favicon.png
 
 # rss文件
 rss: atom.xml
